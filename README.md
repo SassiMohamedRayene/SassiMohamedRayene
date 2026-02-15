@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rayene Sassi
-💻 Software Engineering Student specializing in Mobile & Web Development, with a strong focus on Back-End Engineering.<br>☁️ Currently expanding my skills in AWS and DevOps to design, automate, and deploy scalable cloud solutions.<br>🧪 Experienced through academic projects and a TREND-IT Internship.<br>🚀 Passionate about continuous learning and building innovative solutions that connect Mobile, Web, Cloud, and DevOps technologies.<br><br>📱 Current Project<br> BookWave — Android Application<br><br>🤖 Currently Learning<br> Machine Learning & Artificial Intelligence
+💻 Software Engineering Student specializing in Mobile & Web Development, with a strong focus on Back-End Engineering.<br>☁️ Currently expanding my skills in AWS and DevOps to design, automate, and deploy scalable cloud solutions.<br>🧪 Experienced through academic projects and Internship.<br>🚀 Passionate about continuous learning and building innovative solutions that connect Mobile, Web, Cloud, and DevOps technologies.<br><br>🤖 Currently Learning<br> Machine Learning & Artificial Intelligence
 
 
 ## 🌐 Socials:
