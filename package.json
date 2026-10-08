@@ -1,0 +1,27 @@
+{
+  "name": "rayene-sassi-portfolio",
+  "version": "1.0.0",
+  "description": "Single-page HTML portfolio for Mohamed Rayene Sassi",
+  "scripts": {
+    "build": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --minify",
+    "dev": "tailwindcss -i ./src/styles.css -o ./assets/css/styles.css --watch",
+    "serve": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SassiMohamedRayene/SassiMohamedRayene.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SassiMohamedRayene/SassiMohamedRayene/issues"
+  },
+  "homepage": "https://github.com/SassiMohamedRayene/SassiMohamedRayene#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  },
+  "private": true
+}
